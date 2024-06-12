@@ -1,15 +1,22 @@
-<p align="center">
-  <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course">
-  </a>
-  <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash">
-  </a>
-</p>
 
----
 
 # Projeto artigo técnico gerado por I.A.s
 
-> ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me).
+<p align="center">
+<a href="https://dio.me/">
+    <img 
+        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
+        alt="DIO - Code The Future">
+</a>
+<a href="https://dio.me/">
+<img 
+    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
+    alt="🔴 LIVE CODE">
+</a>
+</p>
+
+> ℹ️ **NOTE:** Este repositório foi criado para o desafio "
+Criando um Podcast com IAs Generativas" durante o "Santander Bootcamp 2024 - Trilha: Fundamentos de IA para Devs" da [DIO](https://dio.me).
 
 <p align="center">
   <a href="" >
@@ -26,6 +33,7 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 - [ChatGPT](https://chat.openai.com/) - para título e conteúdo
 - [Canva](https://canva.com//pt_br/gerador-imagem-ia) - para gerar imagens
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Para formatação de banners e Layouts
+
 
 ## 📄 Prompts e ferramentas
 
